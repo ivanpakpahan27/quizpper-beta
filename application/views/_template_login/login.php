@@ -37,7 +37,7 @@
         @import url(https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css);
 
         body {
-            background: url(https://img.freepik.com/free-vector/blue-hexagon-pattern-background_1409-1903.jpg?w=900&t=st=1668614258~exp=1668614858~hmac=84900fbc47c975d0703fcf3af7a70aa7cac45c8cbe135e7428bdd409870c9d37);
+            background: url(https://img.freepik.com/premium-vector/vector-seamless-pattern-school-doodle-back-school-icon-set-design-elements-poster-banner-vector-illustration_69626-368.jpg?w=740);
             /*bg  1a1a1a  434240  */
             color: white;
             font-family: 'Roboto';
@@ -52,7 +52,7 @@
             background: #34495e;
             /*tablebg e74c3c #34495e  #88565b ed7271*/
             margin: 25px auto;
-            width: 390px;
+            width: 300px;
             height: 720px;
             position: relative;
             font-family: 'Roboto';
@@ -109,7 +109,7 @@
         }
 
         .form-action {
-            padding: 0 20px;
+            padding: 0 10px;
             position: relative;
         }
 
@@ -124,9 +124,9 @@
             line-height: 25px;
         }
 
-        form {
-            padding-right: 20px !important;
-        }
+        /* form {
+            padding-right: 0px !important;
+        } */
 
         form input[type=text],
         form input[type=password],
@@ -244,7 +244,7 @@
             </ul>
             <div id="login" class="form-action show">
                 <center>
-                    <h1><img src="https://i.ibb.co/KX4XZSL/removal-ai-tmp-634a698c25201-2.png" style="width: 300px; margin-right: 20px;"></h1>
+                    <h1><img src="https://i.ibb.co/KX4XZSL/removal-ai-tmp-634a698c25201-2.png" style="width: 200px;"></h1>
                 </center>
                 <!-- <p>
                     Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
@@ -288,7 +288,7 @@
             <!--/#register.form-action-->
             <div id="reset" class="form-action hide">
                 <center>
-                    <h1><img src="https://i.ibb.co/KX4XZSL/removal-ai-tmp-634a698c25201-2.png" style="width: 300px; margin-right: 20px;"></h1>
+                    <h1><img src="https://i.ibb.co/KX4XZSL/removal-ai-tmp-634a698c25201-2.png" style="width: 200px;"></h1>
                 </center>
                 <div style="margin-bottom:10px">
                     <h2>TUTORIAL</h2>
