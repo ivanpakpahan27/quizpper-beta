@@ -33,7 +33,7 @@
           <!-- Menu Footer-->
           <li class="user-footer">
             <div>
-              <a href="<?= base_url('logout'); ?>" class="btn btn-danger btn-block btn-flat"><i class="fa fa-sign-out"></i> Keluar</a>
+              <a href="<?= base_url('logout'); ?>" class="btn btn-default"><i class="fa fa-sign-out"></i> Keluar</a>
             </div>
           </li>
         </ul>
