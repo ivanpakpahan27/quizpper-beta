@@ -269,6 +269,7 @@
             'ordering': true,
             'info': true,
             'autoWidth': false,
+            responsive: true,
         });
     })
 </script>
@@ -281,6 +282,7 @@
             'ordering': true,
             'info': true,
             'autoWidth': false,
+            responsive: true,
         });
     })
 </script>

@@ -27,6 +27,16 @@
   <!-- Load Javascript -->
   <script src="<?= base_url('assets/adminlte/bower_components/jquery/dist/jquery.min.js'); ?>"></script>
   <script src="<?= base_url('assets/js/sweetalert2.all.min.js'); ?>"></script>
+
+  <script type="text/javascript" src=" https://cdn.datatables.net/1.10.13/js/jquery.dataTables.min.js"></script>
+  <script type="text/javascript" src=" https://cdn.datatables.net/buttons/1.2.4/js/dataTables.buttons.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.bootstrap.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.dataTables.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.dataTables.min.css">
+  <script src="https://cdn.datatables.net/responsive/2.2.3/js/responsive.dataTables.js"></script>
+  <script src="https://cdn.datatables.net/responsive/2.2.3/js/responsive.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.js"></script>
+
 </head>
 
 <body class="hold-transition skin-blue-light fixed sidebar-mini" oncontextmenu="return false;" style="-moz-user-select: none; cursor: default;">

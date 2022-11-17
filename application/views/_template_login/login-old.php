@@ -31,7 +31,6 @@
           <div class="logo-smk">
             <img src="https://i.ibb.co/KX4XZSL/removal-ai-tmp-634a698c25201-2.png" style="width: 300px; margin-right: 20px;">
           </div>
-          <!-- <h2 class="user_unregistered-title">SMK N 1 Kedungwuni</h2> -->
           <p class="user_unregistered-text">Gunakan NIS dan Passsword untuk masuk,</p>
           <button class="user_unregistered-signup" id="lupa-button">LUPA PASSWORD</button>
         </div>

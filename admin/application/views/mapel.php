@@ -122,7 +122,8 @@
             'lengthChange': true,
             'ordering': true,
             'info': true,
-            'autoWidth': false
+            'autoWidth': false,
+            'responsive': true,
         });
     })
 </script>

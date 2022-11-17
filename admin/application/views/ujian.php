@@ -247,6 +247,10 @@
             todayHighlight: true,
             format: 'yyyy-mm-dd'
         });
-        $('.table').DataTable();
+        $('.table').DataTable({
+            paging: true,
+            searching: true,
+            responsive: true,
+        });
     })
 </script>

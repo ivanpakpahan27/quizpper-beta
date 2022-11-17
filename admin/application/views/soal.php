@@ -208,6 +208,10 @@
             var id = $(this).val();
             location.href = '<?= base_url("soal/" . $kelas['id_kelas'] . "/"); ?>' + id;
         })
-        $('#tabelSoal').DataTable();
+        $('#tabelSoal').DataTable({
+            paging: true,
+            searching: true,
+            responsive: true,
+        });
     })
 </script>

@@ -1,5 +1,4 @@
 <div class="content-wrapper">
-
     <section class="content-header">
         <h1 class="text-center">
             Siswa
@@ -208,7 +207,8 @@
             'searching': true,
             'ordering': true,
             'info': true,
-            'autoWidth': false
+            'autoWidth': false,
+            'responsive': true,
         });
     })
 </script>
